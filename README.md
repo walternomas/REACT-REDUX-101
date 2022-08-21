@@ -1,2 +1,2 @@
 # REACT-REDUX-101
-React Redux
+Simple React with Redux example to test in NodeJS console.

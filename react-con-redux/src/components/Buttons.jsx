@@ -1,4 +1,3 @@
-import react from 'react';
 import { increment, decrement } from '../redux/actions';
 import { connect } from 'react-redux';
 
